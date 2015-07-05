@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\Dev\\static-code-analysis\\base\\src\\angular1xTree.js",
+ "file": "D:\\Dev\\static-code-analysis\\base\\app\\angular1xTree.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;;;;;;;;;;sBAAiB,UAAU;;;;wBACN,YAAY;;;;IAE3B,aAAa;AACN,WADP,aAAa,GACH;0BADV,aAAa;;AAEf,+BAFE,aAAa,6CAEP;AACR,wBAAK,IAAI,CAAC,oBAAoB,CAAC,CAAC;GACjC;;YAJG,aAAa;;SAAb,aAAa;;;qBAOJ,aAAa"
+}

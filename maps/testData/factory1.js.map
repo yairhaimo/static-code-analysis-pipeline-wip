@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\Dev\\static-code-analysis\\base\\src\\testData\\factory1.js",
+ "file": "D:\\Dev\\static-code-analysis\\base\\app\\testData\\factory1.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;AACA,GAAG,CAAC,OAAO,CAAC,SAAS,EAAE,YAAW;AAChC,SAAO,EAAC,IAAI,EAAE,MAAM,EAAC,CAAC;CACvB,CAAC,CAAC"
+}

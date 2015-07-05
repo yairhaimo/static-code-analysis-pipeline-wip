@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\Dev\\static-code-analysis\\base\\src\\app.js",
+ "file": "D:\\Dev\\static-code-analysis\\base\\app\\app.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;0BACuB,cAAc;;;;+BACT,mBAAmB;;;;0BACxB,cAAc;;;;0BACd,cAAc;;;;AAErC,IAAI,eAAe,GAAG,kCAAqB,CAAC;AAC5C,IAAI,UAAU,GAAG,6BAAgB,CAAC;;AAElC,wBAAW,IAAI,CAAC,aAAa,CAAC,CAAC,IAAI,CAAC,UAAC,IAAI;SAAI,eAAe,CAAC,KAAK,CAAC,IAAI,CAAC;CAAA,CAAC,CAAC,IAAI,CAAC,UAAC,IAAI;SAAI,UAAU,CAAC,IAAI,CAAC,IAAI,CAAC;CAAA,CAAC,CAAC"
+}

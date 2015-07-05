@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\Dev\\static-code-analysis\\base\\src\\baseTree.js",
+ "file": "D:\\Dev\\static-code-analysis\\base\\app\\baseTree.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;;;;;;IAAM,QAAQ;AACD,WADP,QAAQ,GACE;0BADV,QAAQ;;AAEV,WAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAC;AAC7B,QAAI,CAAC,MAAM,GAAG,EAAE,CAAC;GAClB;;eAJG,QAAQ;;WAMT,aAAC,OAAO,EAAE;AACX,UAAI,CAAC,MAAM,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;KAC3B;;;SAEO,eAAG;AACT,aAAO,IAAI,CAAC,MAAM,CAAC;KACpB;;;SAZG,QAAQ;;;qBAgBC,QAAQ"
+}
