@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/src/base/baseParser.js",
+ "file": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/app/base/baseParser.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;;;;;;2BAAiB,iBAAiB;;;;wBACb,YAAY;;;;0BACf,gBAAgB;;;;IAE5B,UAAU,GACH,SADP,UAAU,GACA;wBADV,UAAU;;;AAGZ,0BAAM,kBAAkB,CAAC,IAAI,EAAE,UAAU,CAAC,CAAC;AAC3C,0BAAM,yBAAyB,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;CAC7C;;;;AAAA;;qBAMY,UAAU"
+}

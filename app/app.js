@@ -3,26 +3,26 @@
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
-var _baseLoader = require('./baseLoader');
+var _baseBaseLoader = require('./base/baseLoader');
 
-var _baseLoader2 = _interopRequireDefault(_baseLoader);
+var _baseBaseLoader2 = _interopRequireDefault(_baseBaseLoader);
 
-var _angular1xParser = require('./angular1xParser');
+var _angular1xAngular1xParser = require('./angular1x/angular1xParser');
 
-var _angular1xParser2 = _interopRequireDefault(_angular1xParser);
+var _angular1xAngular1xParser2 = _interopRequireDefault(_angular1xAngular1xParser);
 
-var _A2A2Dumper = require('./A2A2Dumper');
+var _a2a2A2A2Dumper = require('./a2a2/A2A2Dumper');
 
-var _A2A2Dumper2 = _interopRequireDefault(_A2A2Dumper);
+var _a2a2A2A2Dumper2 = _interopRequireDefault(_a2a2A2A2Dumper);
 
-var _baseParser = require('./baseParser');
+var _baseBaseParser = require('./base/baseParser');
 
-var _baseParser2 = _interopRequireDefault(_baseParser);
+var _baseBaseParser2 = _interopRequireDefault(_baseBaseParser);
 
-var angular1xParser = new _angular1xParser2['default']();
-var a2a2Dumper = new _A2A2Dumper2['default']();
+var angular1xParser = new _angular1xAngular1xParser2['default']();
+var a2a2Dumper = new _a2a2A2A2Dumper2['default']();
 
-_baseLoader2['default'].load('../testData').then(function (tree) {
+_baseBaseLoader2['default'].load('../testData').then(function (tree) {
   return angular1xParser.parse(tree);
 }).then(function (tree) {
   return a2a2Dumper.dump(tree);

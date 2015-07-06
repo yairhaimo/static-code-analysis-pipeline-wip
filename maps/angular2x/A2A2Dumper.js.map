@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/src/angular2x/A2A2Dumper.js",
+ "file": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/app/angular2x/A2A2Dumper.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;;;;;;;;;;;;8BAAuB,oBAAoB;;;;sCACjB,4BAA4B;;;;6BAC5B,iBAAiB;;;;2BAC1B,iBAAiB;;;;IAE5B,UAAU;AACH,WADP,UAAU,GACA;0BADV,UAAU;;AAEZ,+BAFE,UAAU,6CAEJ;GACT;;YAHG,UAAU;;eAAV,UAAU;;WAKV,cAAC,IAAoB,EAAkB;AACzC,+BAAK,IAAI,CAAC,cAAc,CAAC,CAAC;KAC3B;;;SAPG,UAAU;;;qBAUD,UAAU"
+}

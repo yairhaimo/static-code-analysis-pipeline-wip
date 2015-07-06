@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/src/angular1x/enums.js",
+ "file": "/home/yairhaimo/dev/static-code-analysis-pipeline-wip/app/angular1x/enums.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;;AAAO,IAAM,KAAK,GAAG;AACnB,SAAO,EAAE,SAAS;AAClB,YAAU,EAAE,YAAY;CACzB,CAAC;QAHW,KAAK,GAAL,KAAK;AAIX,IAAM,SAAS,GAAG;AACvB,UAAQ,EAAE,UAAU;AACpB,QAAM,EAAE,QAAQ;AAChB,aAAW,EAAE,aAAa;AAC1B,WAAS,EAAE,WAAW;CACvB,CAAC;QALW,SAAS,GAAT,SAAS"
+}
