@@ -63,7 +63,7 @@ var Angular1xParser = (function (_BaseParser) {
           for (var _iterator = tree.data[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
             var item = _step.value;
 
-            _utilsLogger2['default'].error('parse item!', JSON.stringify(item));
+            _utilsLogger2['default'].info('parse item!', JSON.stringify(item));
             _this.parseItem();
           }
         } catch (err) {

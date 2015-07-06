@@ -18,7 +18,7 @@ class Angular1xParser extends BaseParser {
     return Q.fcall(() => {
       $log.info('got tree');
       for (let item of tree.data) {
-        $log.error('parse item!', JSON.stringify(item));
+        $log.info('parse item!', JSON.stringify(item));
         this.parseItem();
       }
 
